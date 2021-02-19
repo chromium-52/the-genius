@@ -17,7 +17,7 @@ int[] chance = new int[2];
 // difficulty - integer between 0 and 100
 int level = 20;
 boolean twoPlayer = false;
-boolean turnOne = true;
+boolean turnOne;
 
 void setup () {
   // SIDE
@@ -32,7 +32,7 @@ void setup () {
   chance[0] = 2;
   chance[1] = 2;
   
-  initializeWalls(level);
+  initialize(level);
 }
 
 void draw() {
@@ -72,13 +72,19 @@ void draw() {
   }
 }
 
-void initializeWalls(int level) {
+void initialize(int level) {
+  // initialize walls
   for(int i = 0; i < SIDE; i++) {
     for(int j = 0; j < SIDE; j++) {
       if(int(random(101)) < level) {
         walls[i][j] = 1;
       }
     }
+  }
+  
+  // decide who goes first if two-player mode is enabled
+  if (twoPlayer) {
+    
   }
 }
 
