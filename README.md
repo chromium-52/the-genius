@@ -2,7 +2,11 @@
 
 This project implements several games featured in the Korean reality game show _[The Genius](https://en.wikipedia.org/wiki/The_Genius_(TV_series))_.
 
-## Games
+## Available Games
+
+<hr>
+
+## Progress
 
 ### In progress:
 
@@ -25,8 +29,12 @@ The objective of this game is for one or two players to take turn ...
 흑과백<br>
 미스터리 사인
 
+<hr>
+
 ## Fair Use Policy
 
 This project is strictly for educational and noncommercial purposes only and may contain copyrighted material whose use has not been specifically authorized by the copyright owner.
+
+Section 107 of the [Copyright Act](https://www.copyright.gov/fair-use/more-info.html) allows limited use of copyrighted material without requiring permission from the rights holders, for purposes such as education. Similarly, Article 35 of the South Korean Copyright Act (Article 35-5 in [Korean](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%80%EC%9E%91%EA%B6%8C%EB%B2%95) and Article 35-3 in [English](https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=192474&viewCls=engLsInfoR#0000)) specifies that one may use another's work if doing so "does not unreasonably prejudice an author's legitimate interest without conflicting with the normal exploitation of works".
 
 If you believe that any content in this project violates your intellectual property or other rights, please notify by email at dukyoung01@naver.com.
