@@ -1,6 +1,6 @@
 # The Genius
 
-This project implements several games featured in the Korean reality game show _[The Genius](https://en.wikipedia.org/wiki/The_Genius_(TV_series))_.
+This project implements several games featured in the Korean reality game series _[The Genius](https://en.wikipedia.org/wiki/The_Genius_(TV_series))_.
 
 ## Available Games
 
