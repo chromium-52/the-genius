@@ -12,9 +12,9 @@ This project implements several games featured in the Korean reality game series
 ### In progress:
 
 #### 기억의 미로 (Memory Maze)
-The objective of this game is for one or two players to begin the maze at their respective starting positions (at the bottom left or right corners) and reach the end of the maze without passing any of the 32 invisible "walls" that are placed between each square. Each player takes turn moving 3 squares at a time and the player that reaches the end of the maze (at the top right or left corners) wins the game.
+The objective of this game is for one or two players to begin the 7x7 maze at their respective starting positions (at the bottom left or right corners) and reach the end of the maze without passing any of the 32 invisible "walls" that are placed between each square. Each player takes turn moving 3 squares at a time and the player that reaches the end of the maze (at the top right or left corners) wins the game.
 
-<img src="https://user-images.githubusercontent.com/33704204/120727729-4de06200-c4a9-11eb-8134-a60fe9d49380.png" alt="Memory Maze Screenshot" width=500 height=500>
+<img src="https://user-images.githubusercontent.com/33704204/120732349-242c3880-c4b3-11eb-8322-fe5b15b42e10.png" alt="Memory Maze Screenshot" width=500 height=500>
 
 #### 같은 그림 찾기 (Same Picture Hunt)
 The objective of this game is for one or two players to take turn guessing the correct tile on their rail with one of the 16 face-down tiles on the board. If the user correctly guesses their tile in the board, the player moves up one spot and can continue to guess until the player makes the wrong guess or the player runs out of tiles on their rail to guess, whichever comes first. The player that correctly guesses all of the tile on their rail first wins the game.
