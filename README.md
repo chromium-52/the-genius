@@ -7,6 +7,7 @@ This project implements several games featured in the Korean reality game show _
 <hr>
 
 ## Progress
+(Works are still in progress)
 
 ### In progress:
 
